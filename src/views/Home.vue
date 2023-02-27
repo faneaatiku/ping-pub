@@ -7,7 +7,7 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block ml-1"
         >
-          Ping Dashboard<small class="flow-left">Beta</small>
+          BZE Explorer<small class="flow-left">Powered by Ping.pub</small>
         </h1>
       </div>
     </b-link>

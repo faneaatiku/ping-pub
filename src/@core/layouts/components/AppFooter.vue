@@ -4,7 +4,7 @@
       Powered By
       <b-link
         class="ml-25 font-weight-bolder"
-        href="#"
+        href="https://ping.pub"
         target="_blank"
       >Ping.pub</b-link>
     </span>
