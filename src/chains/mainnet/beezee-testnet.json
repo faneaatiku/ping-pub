@@ -1,0 +1,19 @@
+{
+    "chain_name": "BZE Testnet",
+    "coingecko": "bzedge",
+    "api": ["https://testnet.getbze.com"],
+    "rpc": ["https://testnet-rpc.getbze.com/:443"],
+    "snapshot_provider": ["c0505f46c714ddde46007fc26a1419cf0a62093e@testnet-rpc.getbze.com:26656"],
+    "sdk_version": "0.45.10",
+    "coin_type": "370",
+    "min_tx_fee": "8000",
+    "addr_prefix": "testbz",
+    "logo": "/logos/beezee.png",
+    "assets": [{
+        "base": "utbz",
+        "symbol": "TBZE",
+        "exponent": "6",
+        "coingecko_id": "bzedge",
+        "logo": "/logos/beezee.png"
+    }]
+  }
