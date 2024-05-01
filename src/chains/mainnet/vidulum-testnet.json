@@ -1,0 +1,19 @@
+{
+    "chain_name": "vidulum testnet",
+    "coingecko": "vidulum",
+    "api": ["https://vdl-rest.getbze.com"],
+    "rpc": ["https://vdl-rpc.getbze.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.16",
+    "coin_type": "370",
+    "min_tx_fee": "8000",
+    "addr_prefix": "vdl",
+    "logo": "/logos/VDL.png",
+    "assets": [{
+        "base": "uvdl",
+        "symbol": "VDL",
+        "exponent": "6",
+        "coingecko_id": "vidulum", 
+        "logo": "/logos/VDL.png"
+    }]
+  }

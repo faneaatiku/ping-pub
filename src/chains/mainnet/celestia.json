@@ -1,0 +1,19 @@
+{
+    "chain_name": "celestia",
+    "coingecko": "celestia",
+    "api": "https://api-2.celestia.nodes.guru",
+    "rpc": ["https://celestia-rpc.publicnode.com:443","https://rpc-celestia.mzonder.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.44.0",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "celestia",
+    "logo": "/logos/celestia.png",
+    "assets": [{
+        "base": "utia",
+        "symbol": "TIA",
+        "exponent": "0",
+        "coingecko_id": "celestia",
+        "logo": "/logos/celestia.png"
+    }]
+}
