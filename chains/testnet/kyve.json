@@ -1,0 +1,19 @@
+{
+  "chain_name": "kyve",
+  "api": ["https://api.kaon.kyve.network:443"],
+  "rpc": ["https://rpc.kaon.kyve.network:443"],
+  "snapshot_provider": "https://rpc.kaon.kyve.network:443",
+  "sdk_version": "0.45.6",
+  "coin_type": "118",
+  "min_tx_fee": "8000",
+  "addr_prefix": "kyve",
+  "logo": "https://res.chaintools.tech/logos/kyve.svg",
+  "theme_color": "#3A6C65",
+  "assets": [{
+    "base": "tkyve",
+    "symbol": "KYVE",
+    "exponent": "6",
+    "coingecko_id": "kyve-network",
+    "logo": "https://res.chaintools.tech/logos/kyve.svg"
+  }]
+}
