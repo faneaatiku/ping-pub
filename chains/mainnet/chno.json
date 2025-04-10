@@ -1,7 +1,7 @@
 {
     "chain_name": "CNHO Stables",
-    "api": ["https://cnhostables_mainnet_api.chain.whenmoonwhenlambo.money","https://api.cnho.io"],
-    "rpc": ["https://cnhostables_mainnet_rpc.chain.whenmoonwhenlambo.money","https://rpc.cnho.io"],
+    "api": ["https://cnhostables_mainnet_api.chain.whenmoonwhenlambo.money","https://api.cnho.io", "https://api.cnho.indonode.net"],
+    "rpc": ["https://cnhostables_mainnet_rpc.chain.whenmoonwhenlambo.money","https://rpc.cnho.io", "https://rpc.cnho.indonode.net"],
     "snapshot_provider": "",
     "sdk_version": "0.45.3",
     "coin_type": "60",
