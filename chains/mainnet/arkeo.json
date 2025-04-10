@@ -11,7 +11,7 @@
   "assets": [{
     "base": "uarkeo",
     "symbol": "ARKEO",
-    "exponent": "6",
+    "exponent": "8",
     "coingecko_id": "",
     "logo": "https://res.chaintools.tech/logos/arkeo.png"
   }]
