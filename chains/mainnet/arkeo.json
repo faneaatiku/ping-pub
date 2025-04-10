@@ -1,0 +1,18 @@
+{
+  "chain_name": "arkeo",
+  "coingecko": "",
+  "rpc": ["https://rpc-seed.arkeo.network"],
+  "api": ["https://rest-seed.arkeo.network"],
+  "addr_prefix": "arkeo",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "logo": "https://res.chaintools.tech/logos/arkeo.png",
+  "sdk_version": "0.47.8",
+  "assets": [{
+    "base": "uarkeo",
+    "symbol": "ARKEO",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/arkeo.png"
+  }]
+}
