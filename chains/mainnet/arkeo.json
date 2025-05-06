@@ -1,8 +1,8 @@
 {
   "chain_name": "arkeo",
   "coingecko": "",
-  "rpc": ["https://arkeo-mainnet-rpc.autostake.com:443","https://rpc-seed.arkeo.network"],
-  "api": ["https://arkeo-mainnet-lcd.autostake.com:443","https://rest-seed.arkeo.network"],
+  "rpc": ["https://rpc.arkeo.roomit.xyz","https://arkeo-mainnet-rpc.autostake.com:443","https://rpc-seed.arkeo.network"],
+  "api": ["https://api.arkeo.roomit.xyz","https://arkeo-mainnet-lcd.autostake.com:443","https://rest-seed.arkeo.network"],
   "addr_prefix": "arkeo",
   "coin_type": "118",
   "min_tx_fee": "5000",
