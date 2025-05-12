@@ -7,7 +7,7 @@
   "sdk_version": "0.46.1",
   "coin_type": "118",
   "min_tx_fee": "3000",
-  "addr_prefix": "slf",
+  "addr_prefix": "self",
   "logo": "https://res.chaintools.tech/logos/self.png",
   "theme_color": "#995DE5",
   "assets": [{
