@@ -1,0 +1,20 @@
+{
+  "chain_name": "shentu",
+  "api": ["https://rest.shentu.org:443"],
+  "rpc": ["https://rpc.shentu.org:443"],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.11",
+  "coin_type": "118",
+  "min_tx_fee": "5000000000000000",
+  "addr_prefix": "shentu",
+  "logo": "https://res.chaintools.tech/logos/shentu.jpg",
+  "theme_color": "#24389A",
+  "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+  "assets": [{
+    "base": "uctk",
+    "symbol": "CTK",
+    "exponent": "18",
+    "coingecko_id": "certik",
+    "logo": "https://res.chaintools.tech/logos/shentu.jpg"
+  }]
+}
