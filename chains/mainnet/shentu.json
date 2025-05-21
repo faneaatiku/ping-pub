@@ -13,7 +13,7 @@
   "assets": [{
     "base": "uctk",
     "symbol": "CTK",
-    "exponent": "18",
+    "exponent": "6",
     "coingecko_id": "certik",
     "logo": "https://res.chaintools.tech/logos/shentu.jpg"
   }]
