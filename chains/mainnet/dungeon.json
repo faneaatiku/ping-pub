@@ -1,0 +1,30 @@
+{
+  "chain_name": "Dungeon",
+  "api": [
+    {
+      "address": "https://dungeon_mainnet_api.chain.whenmoonwhenlambo.money",
+      "provider": "\uD83D\uDE80 WHEN MOON \uD83C\uDF15 WHEN LAMBO \uD83D\uDD25"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://dungeon_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "provider": "\uD83D\uDE80 WHEN MOON \uD83C\uDF15 WHEN LAMBO \uD83D\uDD25"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.50.13",
+  "coin_type": "0",
+  "min_tx_fee": "100000",
+  "addr_prefix": "dungeon",
+  "logo": "https://res.chaintools.tech/logos/dungeon.png",
+  "assets": [
+    {
+      "base": "udgn",
+      "symbol": "DGN",
+      "exponent": "6",
+      "coingecko_id": "hippo-protocol",
+      "logo": "https://res.chaintools.tech/logos/dungeon.png"
+    }
+  ]
+}
