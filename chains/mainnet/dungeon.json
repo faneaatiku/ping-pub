@@ -2,14 +2,34 @@
   "chain_name": "Dungeon",
   "api": [
     {
-      "address": "https://dungeon_mainnet_api.chain.whenmoonwhenlambo.money",
-      "provider": "\uD83D\uDE80 WHEN MOON \uD83C\uDF15 WHEN LAMBO \uD83D\uDD25"
+      "address": "https://dungeon-wallet.api.quasarstaking.ai",
+      "provider": "Quasar"
+    },
+    {
+      "address": "https://api-dungeon-1.seraphim.zone",
+      "provider": "Seraphim"
+    },
+    {
+      "address": "https://api-archive-dungeonchain.apeironnodes.com",
+      "provider": "ApeironNodes (Archive)"
+    },
+    {
+      "address": "https://dungeon-api.ibs.team",
+      "provider": "Inter Blockchain Services"
     }
   ],
   "rpc": [
     {
-      "address": "https://dungeon_mainnet_rpc.chain.whenmoonwhenlambo.money",
-      "provider": "\uD83D\uDE80 WHEN MOON \uD83C\uDF15 WHEN LAMBO \uD83D\uDD25"
+      "address": "https://dungeon-wallet.rpc.quasarstaking.ai",
+      "provider": "Quasar"
+    },
+    {
+      "address": "https://rpc-dungeon-1.seraphim.zone",
+      "provider": "Seraphim"
+    },
+    {
+      "address": "https://dungeon-rpc.ibs.team",
+      "provider": "Inter Blockchain Services"
     }
   ],
   "snapshot_provider": "",
