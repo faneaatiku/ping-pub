@@ -1,0 +1,18 @@
+{
+  "chain_name": "hippo-protocol",
+  "api": ["https://api.hippo-protocol.com:443"],
+  "rpc": ["https://rpc.hippo-protocol.com:443"],
+  "sdk_version": "0.46.7",
+  "coin_type": "118",
+  "min_tx_fee": "10",
+  "theme_color": "#2DCB71",
+  "assets": [{
+    "base": "ahp",
+    "symbol": "HP",
+    "exponent": "0",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/hippo-protocol.png"
+  }],
+  "addr_prefix": "hippo",
+  "logo": "https://res.chaintools.tech/logos/hippo-protocol.png"
+}
