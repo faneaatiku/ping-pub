@@ -2,13 +2,13 @@
   "chain_name": "pocket-network",
   "api": [
     {
-      "address": "https://shannon-grove-rpc.mainnet.poktroll.com",
+      "address": "https://shannon-grove-rest.mainnet.poktroll.com",
       "provider": "Grove"
     }
   ],
   "rpc": [
     {
-      "address": "https://shannon-grove-rest.mainnet.poktroll.com",
+      "address": "https://shannon-grove-rpc.mainnet.poktroll.com",
       "provider": "Grove"
     }
   ],
