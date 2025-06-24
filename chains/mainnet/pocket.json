@@ -1,0 +1,30 @@
+{
+  "chain_name": "pocket-network",
+  "api": [
+    {
+      "address": "https://shannon-grove-rpc.mainnet.poktroll.com",
+      "provider": "Grove"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://shannon-grove-rest.mainnet.poktroll.com",
+      "provider": "Grove"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.50.13",
+  "coin_type": "118",
+  "min_tx_fee": "50000",
+  "addr_prefix": "pokt",
+  "logo": "https://res.chaintools.tech/logos/pocket.png",
+  "assets": [
+    {
+      "base": "upokt",
+      "symbol": "POKT",
+      "exponent": "6",
+      "coingecko_id": "pocket-network",
+      "logo": "https://res.chaintools.tech/logos/pocket.png"
+    }
+  ]
+}
