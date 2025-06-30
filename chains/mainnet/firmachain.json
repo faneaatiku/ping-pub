@@ -1,7 +1,25 @@
 {
     "chain_name": "firmachain",
-    "api": ["https://lcd-mainnet.firmachain.dev:1317"],
-    "rpc": ["https://lcd-mainnet.firmachain.dev:26657"],
+    "api": [
+        {
+            "address": "https://lcd-mainnet.firmachain.dev:1317",
+            "provider": "FirmaChain"
+        },
+        {
+            "address": "https://api.firmachain.chaintools.tech:443",
+            "provider": "ChainTools"
+        }
+    ],
+    "rpc": [
+        {
+            "address": "https://lcd-mainnet.firmachain.dev:26657",
+            "provider": "FirmaChain"
+        },
+        {
+            "address": "https://rpc.firmachain.chaintools.tech:443",
+            "provider": "ChainTools"
+        }
+    ],
     "sdk_version": "v0.44.5",
     "coin_type": "118",
     "min_tx_fee": "8000",
