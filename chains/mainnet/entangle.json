@@ -1,8 +1,8 @@
 {
   "chain_name": "entangle",
   "coingecko_id": "entangle",
-  "api": ["https://mainnet-entangle-api.konsortech.xyz","https://entangle-mainnet.api.stakevillage.net","https://entangle-rest.stakerhouse.com"],
-  "rpc": ["https://mainnet-entangle-rpc.konsortech.xyz","https://entangle-mainnet.rpc.stakevillage.net","https://entangle-rpc.stakerhouse.com"],
+  "api": ["https://api.entangle.chaintools.tech:443"],
+  "rpc": ["https://rpc.entangle.chaintools.tech:443"],
   "snapshot_provider": "",
   "sdk_version": "0.46.2",
   "coin_type": "60",
