@@ -1,8 +1,18 @@
 {
   "chain_name": "cifer.ai",
   "coingecko": "",
-  "rpc": ["http://34.128.114.243:26657"],
-  "api": ["https://api.cifer.ai"],
+  "api": [
+    {
+      "address": "https://api.cifer.ai",
+      "provider": "Cifer.ai"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://rpc.cifer.ai/",
+      "provider": "Cifer.ai"
+    }
+  ],
   "addr_prefix": "cife",
   "coin_type": "118",
   "min_tx_fee": "5000",
