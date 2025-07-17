@@ -1,0 +1,30 @@
+{
+  "chain_name": "Terra Classic",
+  "api": [
+    {
+      "address": "https://terraclassic-lcd-server-01.stakely.io",
+      "provider": "Stakely"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://terraclassic-rpc-server-01.stakely.io/",
+      "provider": "Stakely"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.50.13",
+  "coin_type": "0",
+  "min_tx_fee": "100000",
+  "addr_prefix": "terra",
+  "logo": "https://res.chaintools.tech/logos/terra-classic.png",
+  "assets": [
+    {
+      "base": "ulunc",
+      "symbol": "LUNC",
+      "exponent": "6",
+      "coingecko_id": "terra-luna",
+      "logo": "https://res.chaintools.tech/logos/terra-classic.png"
+    }
+  ]
+}
