@@ -8,13 +8,13 @@
     "coin_type": "505",
     "min_tx_fee": "800000000",
     "addr_prefix": "pb",
-    "logo": "https://res.chaintools.tech/logos/provenance.svg",
+    "logo": "https://res.chaintools.tech/logos/pb.png",
     "theme_color": "#4B7BD4",
     "assets": [{
         "base": "nhash",
         "symbol": "HASH",
         "exponent": "9",
         "coingecko_id": "provenance-blockchain", 
-        "logo": "https://res.chaintools.tech/logos/provenance.svg"
+        "logo": "https://res.chaintools.tech/logos/pb.png"
     }]
 }
