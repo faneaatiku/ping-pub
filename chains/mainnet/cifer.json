@@ -17,6 +17,7 @@
   "coin_type": "118",
   "min_tx_fee": "5000",
   "logo": "https://res.chaintools.tech/logos/cifer.png",
+  "theme_color": "#6358D7",
   "sdk_version": "0.46.14",
   "assets": [{
     "base": "ucif",
