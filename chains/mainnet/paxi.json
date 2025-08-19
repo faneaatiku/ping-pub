@@ -16,7 +16,7 @@
   "sdk_version": "0.50.13",
   "coin_type": "118",
   "min_tx_fee": "1000000000000000000",
-  "addr_prefix": "hippo",
+  "addr_prefix": "paxi",
   "logo": "https://res.chaintools.tech/logos/paxi.png",
   "assets": [
     {
