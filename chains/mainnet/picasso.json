@@ -7,7 +7,7 @@
   "sdk_version": "0.47.1",
   "coin_type": "118",
   "min_tx_fee": "500",
-  "addr_prefix": "banksy",
+  "addr_prefix": "pica",
   "logo": "https://res.chaintools.tech/logos/pica.svg",
   "assets": [{
     "base": "ppica",
