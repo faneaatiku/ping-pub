@@ -1,0 +1,30 @@
+{
+  "chain_name": "Sunrise",
+  "api": [
+    {
+      "address": "https://a.consensus.sunrise-1.sunriselayer.io:1318",
+      "provider": "Sunrise Team"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://a.consensus.sunrise-1.sunriselayer.io",
+      "provider": "Sunrise Team"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.50.13",
+  "coin_type": "118",
+  "min_tx_fee": "100000",
+  "addr_prefix": "sunrise",
+  "logo": "https://res.chaintools.tech/logos/sunrise.png",
+  "assets": [
+    {
+      "base": "uvrise",
+      "symbol": "vRISE",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "https://res.chaintools.tech/logos/sunrise.png"
+    }
+  ]
+}
