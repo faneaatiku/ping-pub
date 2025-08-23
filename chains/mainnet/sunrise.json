@@ -2,14 +2,14 @@
   "chain_name": "Sunrise",
   "api": [
     {
-      "address": "https://a.consensus.sunrise-1.sunriselayer.io:1318",
-      "provider": "Sunrise Team"
+      "address": "https://sunrise-mainnet-api.mekonglabs.tech",
+      "provider": "MekongLabs"
     }
   ],
   "rpc": [
     {
-      "address": "https://a.consensus.sunrise-1.sunriselayer.io",
-      "provider": "Sunrise Team"
+      "address": "https://sunrise-mainnet-rpc.mekonglabs.tech",
+      "provider": "MekongLabs"
     }
   ],
   "snapshot_provider": "",
