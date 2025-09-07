@@ -2,7 +2,7 @@
   "chain_name": "Union",
   "api": [
     {
-      "address": "https://rpc.union.build/",
+      "address": "https://rest.union.build/",
       "provider": "Union"
     }
   ],
@@ -13,10 +13,11 @@
     }
   ],
   "snapshot_provider": "",
-  "sdk_version": "0.50.13",
-  "coin_type": "",
+  "coin_type": "118",
+  "theme_color": "#A0ECFD",
   "min_tx_fee": "100000",
-  "addr_prefix": "sunrise",
+  "sdk_version": "0.50.11",
+  "addr_prefix": "union",
   "logo": "https://res.chaintools.tech/logos/union.png",
   "assets": [
     {
