@@ -1,0 +1,53 @@
+{
+  "chain_name": "symphony",
+  "api": [
+    {
+      "address": "https://symphony.grpc.nodeshub.online/",
+      "provider": "Nodes Hub"
+    },
+    {
+      "address": "https://symphony-grpc.cogwheel.zone:443",
+      "provider": "Cogwheel \u2699\ufe0f"
+    },
+    {
+      "address": "grpc-main-symphony.vinjan.xyz:21090",
+      "provider": "Vinjan.Inc"
+    },
+    {
+      "address": "https://grpc-symphony.sr20de.xyz",
+      "provider": "Sr20de"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://symphony.rpc.nodeshub.online/",
+      "provider": "Nodes Hub"
+    },
+    {
+      "address": "https://symphony-rpc.cogwheel.zone/",
+      "provider": "Cogwheel \u2699\ufe0f"
+    },
+    {
+      "address": "https://rpc-main-symphony.vinjan.xyz",
+      "provider": "Vinjan.Inc"
+    },
+    {
+      "address": "https://rpc-symphony.sr20de.xyz",
+      "provider": "Sr20de"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.7",
+  "coin_type": "118",
+  "min_tx_fee": "10",
+  "theme_color": "",
+  "assets": [{
+    "base": "umld",
+    "symbol": "MLD",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/symphony.png"
+  }],
+  "addr_prefix": "dys",
+  "logo": "https://res.chaintools.tech/logos/symphony.png"
+}
