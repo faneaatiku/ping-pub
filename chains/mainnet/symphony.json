@@ -2,19 +2,19 @@
   "chain_name": "symphony",
   "api": [
     {
-      "address": "https://symphony.grpc.nodeshub.online/",
+      "address": "https://symphony.api.nodeshub.online/",
       "provider": "Nodes Hub"
     },
     {
-      "address": "https://symphony-grpc.cogwheel.zone:443",
+      "address": "https://symphony-api.cogwheel.zone/",
       "provider": "Cogwheel \u2699\ufe0f"
     },
     {
-      "address": "grpc-main-symphony.vinjan.xyz:21090",
+      "address": "https://api-main-symphony.vinjan.xyz",
       "provider": "Vinjan.Inc"
     },
     {
-      "address": "https://grpc-symphony.sr20de.xyz",
+      "address": "https://api-symphony.sr20de.xyz",
       "provider": "Sr20de"
     }
   ],
