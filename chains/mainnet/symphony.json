@@ -48,6 +48,6 @@
     "coingecko_id": "",
     "logo": "https://res.chaintools.tech/logos/symphony.png"
   }],
-  "addr_prefix": "dys",
+  "addr_prefix": "symphony",
   "logo": "https://res.chaintools.tech/logos/symphony.png"
 }
