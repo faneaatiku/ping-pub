@@ -1,0 +1,29 @@
+{
+  "chain_name": "dyson-protocol",
+  "api": [
+    {
+      "address": "https://testnet-api.dyson.chaintools.tech",
+      "provider": "ChainTools"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://testnet-rpc.dyson.chaintools.tech",
+      "provider": "ChainTools"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.7",
+  "coin_type": "118",
+  "min_tx_fee": "10",
+  "theme_color": "#75FB4C",
+  "assets": [{
+    "base": "dys",
+    "symbol": "DYS",
+    "exponent": "0",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/dyson-protocol.png"
+  }],
+  "addr_prefix": "dys",
+  "logo": "https://res.chaintools.tech/logos/dyson-protocol.png"
+}
