@@ -42,7 +42,7 @@
   "min_tx_fee": "10",
   "theme_color": "",
   "assets": [{
-    "base": "umld",
+    "base": "note",
     "symbol": "MLD",
     "exponent": "6",
     "coingecko_id": "",
