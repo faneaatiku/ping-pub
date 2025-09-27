@@ -1,0 +1,29 @@
+{
+  "chain_name": "conscious",
+  "api": [
+    {
+      "address": "https://api.cvn.io",
+      "provider": "cvn.io"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://rpc.cvn.io",
+      "provider": "cvn.io"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.7",
+  "coin_type": "118",
+  "min_tx_fee": "10",
+  "theme_color": "",
+  "assets": [{
+    "base": "ucvn",
+    "symbol": "CVN",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/conscious.png"
+  }],
+  "addr_prefix": "cvn",
+  "logo": "https://res.chaintools.tech/logos/conscious.png"
+}
