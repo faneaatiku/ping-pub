@@ -18,9 +18,9 @@
   "min_tx_fee": "10",
   "theme_color": "",
   "assets": [{
-    "base": "ucvn",
+    "base": "acvnt",
     "symbol": "CVN",
-    "exponent": "6",
+    "exponent": "18",
     "coingecko_id": "",
     "logo": "https://res.chaintools.tech/logos/conscious.png"
   }],
