@@ -18,9 +18,9 @@
   "min_tx_fee": "10",
   "theme_color": "#75FB4C",
   "assets": [{
-    "base": "dys2",
-    "symbol": "DYS2",
-    "exponent": "0",
+    "base": "udys",
+    "symbol": "DYS",
+    "exponent": "6",
     "coingecko_id": "",
     "logo": "https://res.chaintools.tech/logos/dyson-protocol.png"
   }],
