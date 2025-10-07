@@ -2,6 +2,10 @@
   "chain_name": "Dungeon",
   "api": [
     {
+      "address": "https://api dungeon.chaintools.tech",
+      "provider": "ChainTools"
+    },
+    {
       "address": "https://dungeon-wallet.api.quasarstaking.ai",
       "provider": "Quasar"
     },
@@ -22,6 +26,10 @@
     {
       "address": "https://dungeon-wallet.rpc.quasarstaking.ai",
       "provider": "Quasar"
+    },
+    {
+      "address": "https://rpc dungeon.chaintools.tech",
+      "provider": "ChainTools"
     },
     {
       "address": "https://rpc-dungeon-1.seraphim.zone",
