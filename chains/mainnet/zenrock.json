@@ -18,7 +18,7 @@
   "min_tx_fee": "10",
   "theme_color": "#facd47",
   "assets": [{
-    "base": "urick",
+    "base": "urock",
     "symbol": "ROCK",
     "exponent": "6",
     "coingecko_id": "",
