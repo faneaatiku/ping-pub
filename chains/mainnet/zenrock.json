@@ -1,0 +1,29 @@
+{
+  "chain_name": "zenrock",
+  "api": [
+    {
+      "address": "https://api.diamond.zenrocklabs.io/",
+      "provider": "zenrock"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://rpc.diamond.zenrocklabs.io/",
+      "provider": "zenrock"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.7",
+  "coin_type": "118",
+  "min_tx_fee": "10",
+  "theme_color": "#facd47",
+  "assets": [{
+    "base": "urick",
+    "symbol": "ROCK",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/zenrock.png"
+  }],
+  "addr_prefix": "dys",
+  "logo": "https://res.chaintools.tech/logos/zenrock.png"
+}
