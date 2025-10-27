@@ -2,13 +2,37 @@
   "chain_name": "Terra Classic",
   "api": [
     {
-      "address": "https://terraclassic-lcd-server-01.stakely.io",
-      "provider": "Stakely"
+      "address": "https://terra-classic-lcd.publicnode.com",
+      "provider": "Allnodes ⚡️ Nodes & Staking"
+    },
+    {
+      "address": "https://lcd.terra-classic.hexxagon.io/",
+      "provider": "Hexxagon"
+    },
+    {
+      "address": "https://terraclassic-mainnet-lcd.autostake.com:443",
+      "provider": "AutoStake 🛡️ Slash Protected"
+    },
+    {
+      "address": "https://api-lunc-lcd.binodes.com",
+      "provider": "BInodes"
     }
   ],
   "rpc": [
     {
-      "address": "https://terraclassic-rpc-server-01.stakely.io/",
+      "address": "https://terra-classic-rpc.publicnode.com:443",
+      "provider": "Allnodes ⚡️ Nodes & Staking"
+    },
+    {
+      "address": "https://rpc.terra-classic.hexxagon.io/",
+      "provider": "Hexxagon"
+    },
+    {
+      "address": "https://api-lunc-rpc.binodes.com",
+      "provider": "BInodes"
+    },
+    {
+      "address": "https://terraclassic-rpc-server-01.stakely.io",
       "provider": "Stakely"
     }
   ],
