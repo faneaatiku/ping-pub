@@ -44,8 +44,8 @@
   "logo": "https://res.chaintools.tech/logos/terra-classic.png",
   "assets": [
     {
-      "base": "ulunc",
-      "symbol": "LUNC",
+      "base": "uluna",
+      "symbol": "LUNA",
       "exponent": "6",
       "coingecko_id": "terra-luna",
       "logo": "https://res.chaintools.tech/logos/terra-classic.png"
