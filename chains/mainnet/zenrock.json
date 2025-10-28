@@ -24,6 +24,6 @@
     "coingecko_id": "zenrock",
     "logo": "https://res.chaintools.tech/logos/zenrock.png"
   }],
-  "addr_prefix": "dys",
+  "addr_prefix": "zen",
   "logo": "https://res.chaintools.tech/logos/zenrock.png"
 }
