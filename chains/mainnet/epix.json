@@ -1,0 +1,29 @@
+{
+  "chain_name": "epix",
+  "api": [
+    {
+      "address": "https://api.epixchain.com",
+      "provider": "epix"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://rpc.epixchain.com",
+      "provider": "epix"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.7",
+  "coin_type": "60",
+  "min_tx_fee": "10",
+  "theme_color": "#3abec4",
+  "assets": [{
+    "base": "aepix",
+    "symbol": "EPIX",
+    "exponent": "1",
+    "coingecko_id": "",
+    "logo": "https://res.chaintools.tech/logos/epix.png"
+  }],
+  "addr_prefix": "zen",
+  "logo": "https://res.chaintools.tech/logos/epix.png"
+}
