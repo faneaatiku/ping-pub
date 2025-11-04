@@ -20,7 +20,7 @@
   "assets": [{
     "base": "aepix",
     "symbol": "EPIX",
-    "exponent": "1",
+    "exponent": "18",
     "coingecko_id": "",
     "logo": "https://res.chaintools.tech/logos/epix.png"
   }],
