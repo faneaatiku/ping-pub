@@ -2,13 +2,13 @@
   "chain_name": "epix",
   "api": [
     {
-      "address": "https://api.epixchain.com",
+      "address": "https://api.epix.zone",
       "provider": "epix"
     }
   ],
   "rpc": [
     {
-      "address": "https://rpc.epixchain.com",
+      "address": "https://rpc.epix.zone",
       "provider": "epix"
     }
   ],
