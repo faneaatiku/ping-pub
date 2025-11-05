@@ -24,6 +24,6 @@
     "coingecko_id": "",
     "logo": "https://res.chaintools.tech/logos/epix.png"
   }],
-  "addr_prefix": "zen",
+  "addr_prefix": "epix",
   "logo": "https://res.chaintools.tech/logos/epix.png"
 }
