@@ -7,13 +7,13 @@
     "coin_type": "118",
     "min_tx_fee": "3000",
     "addr_prefix": "decentr",
-    "logo": "https://res.chaintools.tech/logos/decentr.png",
+    "logo": "https://res.chaintools.tech/logos/decentr.jpg",
     "theme_color": "#81C6C5",
     "assets": [{
         "base": "udec",
         "symbol": "DEC",
         "exponent": "6",
         "coingecko_id": "decentr",
-        "logo": "https://res.chaintools.tech/logos/decentr.png"
+        "logo": "https://res.chaintools.tech/logos/decentr.jpg"
     }]
 }
