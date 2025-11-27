@@ -1,8 +1,8 @@
 {
   "chain_name": "assetmantle",
   "coingecko": "assetmantle",
-  "rpc": ["https://rpc.assetmantle.one","https://rpc-assetmantle.ecostake.com"],
-  "api": ["https://rest.assetmantle.one","https://rest-assetmantle.ecostake.com"],
+  "rpc": ["https://rpc.assetmantle.one","https://rpc-assetmantle.ecostake.com", "https://rpc.mantle.chaintools.tech/"],
+  "api": ["https://rest.assetmantle.one","https://rest-assetmantle.ecostake.com", "https://api.mantle.chaintools.tech/"],
   "addr_prefix": "mantle",
   "coin_type": "118",
   "min_tx_fee": "5000",
