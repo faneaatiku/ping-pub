@@ -2,7 +2,7 @@
     "chain_name": "bitsong",
     "coingecko": "bitsong",
     "api": ["https://api.bitsong.chaintools.tech", "https://lcd.explorebitsong.com"],
-    "rpc": ["https://rpc.bitsong.chaintools.tech", "https://rpc-bitsong.itastakers.com:443","https://rpc-bitsong.itastakers.com:443"],
+    "rpc": ["https://rpc.bitsong.chaintools.tech", "https://rpc-bitsong.itastakers.com:443"],
     "addr_prefix": "bitsong",
     "coin_type": "639",
     "min_tx_fee": "5000",
