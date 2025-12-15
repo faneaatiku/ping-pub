@@ -29,8 +29,8 @@
         "symbol": "FCT",
         "exponent": "6",
         "coingecko_id": "firmachain",
-        "logo": "https://github.com/FirmaChain/chain-registry/raw/master/firmachain/images/fct.svg"
+        "logo": "https://res.chaintools.tech/logos/fct.png"
     }],
     "addr_prefix": "firma",
-    "logo": "https://github.com/FirmaChain/chain-registry/raw/master/firmachain/images/fct.svg"
+    "logo": "https://res.chaintools.tech/logos/fct.png"
 }
