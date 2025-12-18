@@ -281,7 +281,7 @@ export class CosmosRestClient extends BaseRestClient<RequestRegistry> {
 
     let query = `?events=message.sender='${sender}'&pagination.limit=${page.limit}&pagination.offset=${page.offset||0}`;
     if (semver.gte(this.version.replaceAll('v', ''), '0.50.0')) {
-      query = `?query=message.sender='${sender}'&pagination.limit=${page.limit}&pagination.offset=${page.offset||0}`;
+      query = `?query=message.sender='${sender}'&order_by=ORDER_BY_DESC&pagination.limit=${page.limit}&pagination.offset=${page.offset || 0}`;
     }
     return this.request(this.registry.tx_txs, {}, query);
   }
@@ -293,7 +293,7 @@ export class CosmosRestClient extends BaseRestClient<RequestRegistry> {
     if(!page) page = new PageRequest()
     if (semver.gte(this.version.replaceAll('v', ''), '0.50.0')) {
       let query_edit = query.replaceAll('events=', 'query=')    
-      return this.request(this.registry.tx_txs, params, `${query_edit}&${page.toQueryString()}`);
+      return this.request(this.registry.tx_txs, params, `${query_edit}&order_by=ORDER_BY_DESC&${page.toQueryString()}`);
     } else { 
       return this.request(this.registry.tx_txs, params, `${query}&${page.toQueryString()}`);
     }
